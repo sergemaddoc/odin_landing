@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
+
 .hero {
   background-color: #1f2937;
   padding: 0 8px 100px;
@@ -20,6 +23,7 @@ body {
   font-weight: 900;
   color: #f9faf8;
 }
+
 .links {
   list-style-type: none;
   display: flex;
@@ -177,6 +181,7 @@ body {
 .down-container button a {
   text-decoration: none;
   color: #f9faf8;
+  font-weight: bold;
 }
 
 footer {
